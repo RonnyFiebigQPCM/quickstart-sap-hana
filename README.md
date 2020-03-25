@@ -1,14 +1,11 @@
 # quickstart-sap-hana
-## SAP HANA on the AWS Cloud
+## SAP HANA on the GCP Cloud
 
-This Quick Start helps you deploy fully functional SAP HANA systems on the AWS Cloud, following best practices from AWS and SAP. 
+This Quick Start helps you deploy fully functional SAP HANA systems on the Google Cloud Plattform, following best practices from Google and SAP. 
 SAP HANA is an in-memory relational database and application platform that provides high-performance analytics and real-time data 
 processing.
 
-AWS provides SAP customers and partners with an SAP-certified cloud infrastructure to run SAP HANA. 
 You can deploy SAP HANA on SLES or RHEL.
-The Quick Start ensures that Amazon EC2, Amazon EBS, and the operating system are optimally configured to achieve the 
-best performance for your SAP HANA system right out of the box.
 
 The Quick Start offers these deployment options:
 
